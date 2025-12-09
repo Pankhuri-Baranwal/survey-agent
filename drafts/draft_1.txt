@@ -1,0 +1,6 @@
+Q1. How satisfied are you?
+- Very satisfied
+- Satisfied
+- Neutral
+- Dissatisfied
+- Very dissatisfied
